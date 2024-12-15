@@ -19,6 +19,9 @@
 ## **Test 02: Search Functionality**
 - **Objective:** 
   - Validate the search functionality while bypassing CAPTCHA.
+ 
+  NOTE: Here, I am directly using the search URL because performing the search through the search bar triggers a 'Verify you are a human' CAPTCHA. To bypass this, I have opted for the approach detailed below.
+
 - **Steps:**
   1. Navigate directly to the search results page for the term "Quality Engineering."
   2. Verify the presence of search results.
