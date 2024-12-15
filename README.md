@@ -11,13 +11,27 @@ Before running the tests, you need to install the following dependencies:
 
 ## Setup Instructions
 
-### 1. Install Python Dependencies
+### Install Python Dependencies
 
 Ensure that you have Python 3.7 or higher installed. You can install the required dependencies using `pip`:
 
 ```bash
 pip install pytest playwright
 ```
+## About the files
+
+- **test_functions.py**
+  - Contains all the test functions.
+
+- **test_login_options.py**
+  - Contains test 01
+ 
+- **test_search.py**
+  - Contains test 01
+ 
+- **test_agriculture.py**
+  - Contains test 01
+ 
 
 ## **Test 01: Login Options Verification**
 - **Objective:** 
