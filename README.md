@@ -1,5 +1,3 @@
-# Test Summary
-
 # Test Automation for Wiley Online Library
 
 This project contains automated tests for the Wiley Online Library using Playwright and Pytest. The tests are designed to verify the functionality of the website, including login options, search functionality, and dropdown menus.
