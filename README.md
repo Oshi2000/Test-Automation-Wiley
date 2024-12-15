@@ -20,7 +20,7 @@
 - **Objective:** 
   - Validate the search functionality while bypassing CAPTCHA.
  
-  NOTE: Here, I am directly using the search URL because performing the search through the search bar triggers a 'Verify you are a human' CAPTCHA. To bypass this, I have opted for the approach detailed below.
+  *NOTE: Here, I am directly using the search URL because performing the search through the search bar triggers a 'Verify you are a human' CAPTCHA. To bypass this, I have opted for the approach detailed below.*
 
 - **Steps:**
   1. Navigate directly to the search results page for the term "Quality Engineering."
@@ -63,7 +63,7 @@ pytest -s test_functions.py
 
 ```
 
-Note: The -s flag is used to display print statements in the console output for better debugging.
+*Note: The -s flag is used to display print statements in the console output for better debugging.*
 
 
 ## **To run each test case separately**
