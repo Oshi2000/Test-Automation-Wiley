@@ -21,16 +21,16 @@ pip install pytest playwright
 ## About the files
 
 - **test_functions.py**
-  - Contains all the test functions.
+  - Contains all the test functions to at once.
 
 - **test_login_options.py**
-  - Contains test 01
+  - Contains test 01 separately.
  
 - **test_search.py**
-  - Contains test 01
+  - Contains test 02 separately.
  
 - **test_agriculture.py**
-  - Contains test 01
+  - Contains test 03 separately.
  
 
 ## **Test 01: Login Options Verification**
