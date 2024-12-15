@@ -1,5 +1,26 @@
 # Test Summary
 
+# Test Automation for Wiley Online Library
+
+This project contains automated tests for the Wiley Online Library using Playwright and Pytest. The tests are designed to verify the functionality of the website, including login options, search functionality, and dropdown menus.
+
+## Dependencies
+
+Before running the tests, you need to install the following dependencies:
+
+- **pytest**: A testing framework for Python.
+- **playwright**: A library to automate browsers.
+
+## Setup Instructions
+
+### 1. Install Python Dependencies
+
+Ensure that you have Python 3.7 or higher installed. You can install the required dependencies using `pip`:
+
+```bash
+pip install pytest playwright
+```
+
 ## **Test 01: Login Options Verification**
 - **Objective:** 
   - Validate the visibility of "Login / Register" options.
